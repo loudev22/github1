@@ -2,4 +2,4 @@
 
 Prueba de Repositorio
 
-[Visita mi página](www.google.com)
+[Visita mi página](https://www.google.com.mx)
